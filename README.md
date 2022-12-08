@@ -14,4 +14,8 @@ cms-check &amp; auto-trojan &amp; batch
 
 ## get-submit-flag
 
-利用get或post的一句话木马，写入md5马和不死马，自动化获取flag，批量提交
+利用get或post的一句话木马，种马，自动化获取flag，批量提交
+
+## .111.php
+
+种马，上md5马（.fff.php）和不死马（.333.php）
