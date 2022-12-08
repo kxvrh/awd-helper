@@ -18,4 +18,8 @@ cms-check &amp; auto-trojan &amp; batch
 
 ## .111.php
 
-种马，上md5马（.fff.php）和不死马（.333.php）
+种马，上md5马（.fff.php）和不死马（.333.php），访问后删除自身
+
+## .333.php
+
+在每个目录下都生成md5马
